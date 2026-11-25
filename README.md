@@ -1,4 +1,10 @@
-# Jan - Open-source ChatGPT replacement
+# NotJan · THOX.ai Desktop
+
+NotJan is the Jan fork used for the THOX.ai Desktop proof of concept on Apple Silicon. The internal POC adapts the desktop interface to the THOX.ai design system and adds assistant profiles, model routing and versioned project archives.
+
+The installation links and build instructions below describe upstream Jan. The internal THOX.ai Desktop package includes its own Mac launcher and offline experience preview.
+
+## Upstream Jan
 
 <img width="2048" height="280" alt="github jan banner" src="https://github.com/user-attachments/assets/f3f87889-c133-433b-b250-236218150d3f" />
 
